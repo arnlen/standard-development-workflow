@@ -1,3 +1,5 @@
+![Standard Development Workflow banner](/docs/visuals/sdw-banner.png)
+
 # Standard Development Workflow
 
 Standard Development Workflow (SDW) is a Claude skill starter kit for running
@@ -7,10 +9,10 @@ discipline expected from human contributors: context gathering, planning,
 implementation, verification, review, documentation checks, and clean session
 closing.
 
-![Example screenshot](/docs/2025-11-28_example_screenshot.png)
-
 This project started as a personal Claude skill and is now published as an open
 source starting point that other projects can adapt.
+
+![Example screenshot](/docs/2025-11-28_example_screenshot.png)
 
 ## What SDW Provides
 
